@@ -5,6 +5,6 @@ Geomagnetic activities have a crucial impact on Earth, which can affect spacecra
 
 References:
 
-A Transformer-Based Framework for Geomagnetic Activity Prediction. Y. Abduallah, J. T. L. Wang, C. Xu, H. Wang, in Proceedings of the International Symposium on Methodologies for Intelligent Systems, pp 325–335, 2022.
+A Transformer-Based Framework for Geomagnetic Activity Prediction. Y. Abduallah, J. T. L. Wang, C. Xu, H. Wang, in Proceedings of the International Symposium on Methodologies for Intelligent Systems, pp. 325–335, 2022.
 
 https://link.springer.com/chapter/10.1007/978-3-031-16564-1_31
