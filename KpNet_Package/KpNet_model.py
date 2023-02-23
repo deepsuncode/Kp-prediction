@@ -184,7 +184,7 @@ class KpNetModel:
         self.model.summary()
     
     def compile(self,loss='mse',metrics=['mse'], adam_lr=0.0001):
-        self.model.compile(optimizer=tf.optimizers.Adam(learning_rate=adam_lr), 
+        self.model.compile(optimizer=tf.keras.optimizers.legacy.Adam(learning_rate=adam_lr), 
                            loss=loss,
                            metrics=metrics)
     def fit(self,
